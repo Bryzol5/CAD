@@ -1,2 +1,2 @@
 # Inventor
-University projects in Inventor
+University projects in Inventor from B.Sc degree
